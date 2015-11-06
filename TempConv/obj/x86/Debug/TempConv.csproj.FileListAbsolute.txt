@@ -1,0 +1,14 @@
+C:\Users\lab\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.exe
+C:\Users\lab\AppData\Local\Temporary Projects\TempConv\bin\Debug\TempConv.pdb
+C:\Users\lab\AppData\Local\Temporary Projects\TempConv\obj\x86\Debug\TempConv.Properties.Resources.resources
+C:\Users\lab\AppData\Local\Temporary Projects\TempConv\obj\x86\Debug\TempConv.csproj.GenerateResource.Cache
+C:\Users\lab\AppData\Local\Temporary Projects\TempConv\obj\x86\Debug\TempConv.exe
+C:\Users\lab\AppData\Local\Temporary Projects\TempConv\obj\x86\Debug\TempConv.pdb
+C:\Users\lab\AppData\Local\Temporary Projects\TempConv\obj\x86\Debug\TempConv.Form1.resources
+C:\Users\lab\Desktop\TempConv_Dilek\TempConv\TempConv\obj\x86\Debug\TempConv.exe
+C:\Users\lab\Desktop\TempConv_Dilek\TempConv\TempConv\obj\x86\Debug\TempConv.pdb
+C:\Users\lab\Desktop\TempConv_Dilek\TempConv\TempConv\bin\Debug\TempConv.exe
+C:\Users\lab\Desktop\TempConv_Dilek\TempConv\TempConv\obj\x86\Debug\TempConv.Form1.resources
+C:\Users\lab\Desktop\TempConv_Dilek\TempConv\TempConv\obj\x86\Debug\TempConv.Properties.Resources.resources
+C:\Users\lab\Desktop\TempConv_Dilek\TempConv\TempConv\obj\x86\Debug\TempConv.csproj.GenerateResource.Cache
+C:\Users\lab\Desktop\TempConv_Dilek\TempConv\TempConv\bin\Debug\TempConv.pdb
